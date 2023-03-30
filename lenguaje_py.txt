@@ -1,0 +1,20 @@
+#Title
+Python
+
+#Code
+46504564
+
+#Martin
+
+mar
+
+ #Date
+1999-12-31
+
+#Body
+Python is powerful... and fast;
+plays well with others;
+runs everywhere;
+is friendly & easy to learn;
+is Open.
+These are some of the reasons people who use Python would rather not use anything else.

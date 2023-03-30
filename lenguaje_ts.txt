@@ -1,0 +1,16 @@
+#Title
+TypeScript
+
+#Code
+15602165
+
+
+ #Date
+2023-03-29
+#Autor
+
+cococo
+#Body
+TypeScript is JavaScript with syntax for types.
+TypeScript is a strongly typed programming language that builds on
+ JavaScript, giving you better tooling at any scale.
